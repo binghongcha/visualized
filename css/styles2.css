@@ -1,0 +1,82 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic,600,700,800,800italic);
+
+/* navbarshadow*/
+.top {
+    background-color: #32a9db;
+    font-family: 'Open Sans', sans-serif;
+    height: 60px;
+
+
+}
+.top p{
+	font-family: 'Open Sans', sans-serif;
+    font-weight:700;
+    line-height: 60px;
+    text-align: center;
+    padding: 0 10px;
+    background-color: none;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+
+
+.banner  {
+    background-color: #f7f7f7;
+    min-height: 760px;
+    padding: 80px 30px 30px 40px;  								
+}
+
+
+.banner #speakers {
+    background-color: #000000;
+                            
+}
+
+.banner #chart{
+    background-color: #278c9d;
+                            
+}
+
+.banner #filters {
+    background-color: #000000;
+                            
+}
+
+.bottom {
+    background-color: #0d1e2a;
+
+height: 110px;
+}
+
+.bottom .col-md-2 p{
+    padding-top: 27px;
+
+}
+
+#signature {
+text-align: center;
+color: #32a9db;
+font-family: 'Open Sans', sans-serif;
+font-weight: 400;
+padding-top: 20px;
+text-transform: uppercase;
+letter-spacing: 2px;
+font-size: 0.9em;
+}
+
+#share {
+    color: #32a9db;
+    font-size: 1.5em;
+text-align: center;
+
+}
+#share:hover {
+    color: #d91f26;
+    text-decoration: none;
+
+}
+
+
+
