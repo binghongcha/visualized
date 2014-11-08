@@ -2,30 +2,42 @@
 
 /* navbarshadow*/
 .top {
-    background-color: #32a9db;
+    background-color: #46b1de;
     font-family: 'Open Sans', sans-serif;
-    height: 60px;
+    height: 120px;
+        padding-bottom: 80px;
 
 
 }
 .top p{
+    font-size: 1.5em;
 	font-family: 'Open Sans', sans-serif;
     font-weight:700;
-    line-height: 60px;
     text-align: center;
-    padding: 0 10px;
+    padding-top: 30px;
+
     background-color: none;
     color: #FFFFFF;
     text-decoration: none;
 }
 
-
+.top h2{
+    font-size: 0.8em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:400;
+    line-height: 0.2em;
+    text-align: center;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding-bottom: 30px;
+}
 
 
 .banner  {
     background-color: #f7f7f7;
-    min-height: 760px;
-    padding: 80px 30px 30px 40px;  								
+    min-height: 749px;
+    padding: 30px 30px 30px 40px;  								
 }
 
 
@@ -46,11 +58,10 @@
 
 .bottom {
     background-color: #0d1e2a;
-
-height: 110px;
+    min-height: 60px;
 }
 
-.bottom .col-md-2 p{
+.bottom .col-md-1 p{
     padding-top: 27px;
 
 }
@@ -60,7 +71,7 @@ text-align: center;
 color: #32a9db;
 font-family: 'Open Sans', sans-serif;
 font-weight: 400;
-padding-top: 20px;
+padding-top: 17px;
 text-transform: uppercase;
 letter-spacing: 2px;
 font-size: 0.9em;
@@ -70,6 +81,7 @@ font-size: 0.9em;
     color: #32a9db;
     font-size: 1.5em;
 text-align: center;
+padding-top: 15px;
 
 }
 #share:hover {
